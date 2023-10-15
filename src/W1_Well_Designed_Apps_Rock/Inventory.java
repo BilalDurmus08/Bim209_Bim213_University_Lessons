@@ -1,9 +1,11 @@
-package W1_Well_Designed_Apps_Rock.Step1_qwer;
+package W1_Well_Designed_Apps_Rock;
+
+import W1_Well_Designed_Apps_Rock.Guitar;
+import W1_Well_Designed_Apps_Rock.GuitarSpec;
 
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
-import java.util.Locale;
 
 public class Inventory {
     private List guitars;

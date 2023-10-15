@@ -1,4 +1,4 @@
-package W1_Well_Designed_Apps_Rock.Step1_qwer;
+package W1_Well_Designed_Apps_Rock;
 
 public enum Wood {
     INDIAN_ROSEWOOD, BRAZILIAN_ROSEWOOD, MAHOGANY, MAPLE,

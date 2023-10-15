@@ -1,4 +1,4 @@
-package W1_Well_Designed_Apps_Rock.Step1_qwer;
+package W1_Well_Designed_Apps_Rock;
 
 public enum Builder {
     FENDER, MARTIN, GIBSON, COLLINGS, OLSON, RYAN, PRS, ANY;
