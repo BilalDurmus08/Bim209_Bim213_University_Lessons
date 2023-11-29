@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8364516-07c4-40f6-895f-52aac860b051" name="Changes" comment="I create a doubly Linked List class">
+    <list default="true" id="b8364516-07c4-40f6-895f-52aac860b051" name="Changes" comment="27.11.2023">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699196090674</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="27.11.2023">
+      <created>1701076237214</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701076237214</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,7 +181,8 @@
     <MESSAGE value="Second Commit" />
     <MESSAGE value="Third Commit" />
     <MESSAGE value="I create a doubly Linked List class" />
-    <option name="LAST_COMMIT_MESSAGE" value="I create a doubly Linked List class" />
+    <MESSAGE value="27.11.2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="27.11.2023" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
