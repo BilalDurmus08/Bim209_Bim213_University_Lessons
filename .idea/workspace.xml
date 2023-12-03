@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8364516-07c4-40f6-895f-52aac860b051" name="Changes" comment="29.11.2023" />
+    <list default="true" id="b8364516-07c4-40f6-895f-52aac860b051" name="Changes" comment="30.11.2023">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,13 +43,13 @@
       <recent name="W5_Good_Design_Flexible_Software" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="DoublyLinkedList.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DoublyLinkedList.Main" />
+  <component name="RunManager" selected="Application.Hospital">
+    <configuration name="FindInstrumentTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="W5_Good_Design_Flexible_Software.FindInstrumentTester" />
       <module name="Bim209_PrinciplesofSoftwareDesignandAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DoublyLinkedList.*" />
+          <option name="PATTERN" value="W5_Good_Design_Flexible_Software.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +58,12 @@
         <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <configuration name="FindInstrumentTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="W5_Good_Design_Flexible_Software.FindInstrumentTester" />
+    <configuration name="Hospital" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hw_1_Data_Structure.Hospital" />
       <module name="Bim209_PrinciplesofSoftwareDesignandAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="W5_Good_Design_Flexible_Software.*" />
+          <option name="PATTERN" value="Hw_1_Data_Structure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,15 +94,9 @@
         <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <configuration name="W2_Gathering_Requirements.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="W2_Gathering_Requirements.Main" />
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
       <module name="Bim209_PrinciplesofSoftwareDesignandAlgorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="W2_Gathering_Requirements.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
@@ -108,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Hospital" />
+        <item itemvalue="Application.main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.FindInstrumentTester" />
         <item itemvalue="Application.Meysa" />
-        <item itemvalue="Application.DoublyLinkedList.Main" />
-        <item itemvalue="Application.W2_Gathering_Requirements.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701270115662</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="30.11.2023">
+      <created>1701373493011</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1701373493011</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,7 +191,8 @@
     <MESSAGE value="I create a doubly Linked List class" />
     <MESSAGE value="27.11.2023" />
     <MESSAGE value="29.11.2023" />
-    <option name="LAST_COMMIT_MESSAGE" value="29.11.2023" />
+    <MESSAGE value="30.11.2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="30.11.2023" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
