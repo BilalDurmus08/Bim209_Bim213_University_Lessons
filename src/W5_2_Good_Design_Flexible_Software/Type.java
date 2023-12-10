@@ -1,4 +1,4 @@
-package W5_Good_Design_Flexible_Software;
+package W5_2_Good_Design_Flexible_Software;
 
 public enum Type {
 

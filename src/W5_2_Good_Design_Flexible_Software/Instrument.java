@@ -1,6 +1,7 @@
-package W5_Good_Design_Flexible_Software;
+package W5_2_Good_Design_Flexible_Software;
 
-public abstract class Instrument {
+public class Instrument {
+
     private String serialNumber;
     private double price;
     private InstrumentSpec spec;
@@ -22,7 +23,6 @@ public abstract class Instrument {
     public void setPrice(float newPrice) {
         this.price = newPrice;
     }
-
 
     public InstrumentSpec getSpec() {
         return spec;

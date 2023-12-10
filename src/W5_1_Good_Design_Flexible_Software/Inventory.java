@@ -1,13 +1,13 @@
-package W5_Good_Design_Flexible_Software;
+package W5_1_Good_Design_Flexible_Software;
 
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
 
 public class Inventory {
-    private List inventory;
+    private List<Instrument> inventory;
     public Inventory(){
-        inventory = new LinkedList();
+        inventory = new LinkedList<>();
     }
     public void addInstrument(String serialNumber, double price, InstrumentSpec spec){
         Instrument instrument = null;
@@ -19,8 +19,8 @@ public class Inventory {
         inventory.add(instrument);
     }
     public Instrument get(String serialNumber){
-        for (Iterator iterator = inventory.iterator(); iterator.hasNext(); ){
-            Instrument instrument = (Instrument) iterator.next();
+        for (Iterator<Instrument> iterator = inventory.iterator(); iterator.hasNext(); ){
+            Instrument instrument = iterator.next();
             if (instrument.getSerialNumber().equals(serialNumber)){
                 return instrument;
             }
@@ -28,16 +28,16 @@ public class Inventory {
    return null;
     }
 
-    public List search (MandolinSpec spec){
-        List matchingMandolins = new LinkedList();
-        for (Iterator iterator = inventory.iterator(); iterator.hasNext(); ) {
-            Instrument instrument = (Instrument) iterator.next();
-            if (instrument instanceof Mandolin  && instrument.getSpec().equals(spec)){
-                matchingMandolins.add(instrument);
+    public List search (InstrumentSpec spec){
+        List<Instrument> matchingInstruments = new LinkedList<Instrument>();
+        for (Iterator<Instrument> iterator = inventory.iterator(); iterator.hasNext(); ) {
+            Instrument instrument = iterator.next();
+            if (instrument.getSpec().equals(spec)){
+                matchingInstruments.add(instrument);
             }
 
         }
-        return matchingMandolins;
+        return matchingInstruments;
 
     }
 
