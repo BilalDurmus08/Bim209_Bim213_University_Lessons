@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8364516-07c4-40f6-895f-52aac860b051" name="Changes" comment="Commit of Homework">
+    <list default="true" id="b8364516-07c4-40f6-895f-52aac860b051" name="Changes" comment="Commit of lesson 5_2 week">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/W5_Good_Design_Flexible_Software/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W5_1_Good_Design_Flexible_Software/Builder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/W5_Good_Design_Flexible_Software/Guitar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W5_1_Good_Design_Flexible_Software/Guitar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/W5_Good_Design_Flexible_Software/GuitarSpec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W5_1_Good_Design_Flexible_Software/GuitarSpec.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/W5_Good_Design_Flexible_Software/Instrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W5_1_Good_Design_Flexible_Software/Instrument.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/W5_Good_Design_Flexible_Software/InstrumentSpec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W5_1_Good_Design_Flexible_Software/InstrumentSpec.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/W5_Good_Design_Flexible_Software/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W5_1_Good_Design_Flexible_Software/Inventory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/W5_Good_Design_Flexible_Software/Mandolin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W5_1_Good_Design_Flexible_Software/Mandolin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/W5_Good_Design_Flexible_Software/MandolinSpec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W5_1_Good_Design_Flexible_Software/MandolinSpec.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/W5_Good_Design_Flexible_Software/Style.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W5_1_Good_Design_Flexible_Software/Style.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/W5_Good_Design_Flexible_Software/Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W5_1_Good_Design_Flexible_Software/Type.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/W5_Good_Design_Flexible_Software/Wood.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W5_1_Good_Design_Flexible_Software/Wood.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,21 +47,7 @@
       <recent name="W5_Good_Design_Flexible_Software" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.W5_2_Good_Design_Flexible_Software.FindInstrumentTester">
-    <configuration name="FindInstrumentTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="W5_Good_Design_Flexible_Software.FindInstrumentTester" />
-      <module name="Bim209_PrinciplesofSoftwareDesignandAlgorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="W5_1_Good_Design_Flexible_Software.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TestEvaluate">
     <configuration name="Hospital" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hw_1_Data_Structure.Hospital" />
       <module name="Bim209_PrinciplesofSoftwareDesignandAlgorithm" />
@@ -93,6 +68,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Try.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="TestEvaluate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hw_2_Data_Structure.TestEvaluate" />
+      <module name="Bim209_PrinciplesofSoftwareDesignandAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hw_2_Data_Structure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestEvaluate" />
         <item itemvalue="Application.W5_2_Good_Design_Flexible_Software.FindInstrumentTester" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.Hospital" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.FindInstrumentTester" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701609876016</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Commit of lesson 5_2 week">
+      <created>1702215933319</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1702215933319</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,7 +217,8 @@
     <MESSAGE value="29.11.2023" />
     <MESSAGE value="30.11.2023" />
     <MESSAGE value="Commit of Homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit of Homework" />
+    <MESSAGE value="Commit of lesson 5_2 week" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit of lesson 5_2 week" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
