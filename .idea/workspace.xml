@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8364516-07c4-40f6-895f-52aac860b051" name="Changes" comment="Commit of lesson 5_2 week">
+    <list default="true" id="b8364516-07c4-40f6-895f-52aac860b051" name="Changes" comment="Assignment">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hw_2_Data_Structure/Evaluate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hw_2_Data_Structure/Evaluate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hw_2_Data_Structure/TestEvaluate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hw_2_Data_Structure/TestEvaluate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,8 +117,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.TestEvaluate" />
-        <item itemvalue="Application.W5_2_Good_Design_Flexible_Software.FindInstrumentTester" />
         <item itemvalue="Application.main" />
+        <item itemvalue="Application.W5_2_Good_Design_Flexible_Software.FindInstrumentTester" />
         <item itemvalue="Application.Hospital" />
         <item itemvalue="Application.Main" />
       </list>
@@ -194,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702215933319</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Assignment">
+      <created>1702416128325</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1702416128325</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -218,7 +227,8 @@
     <MESSAGE value="30.11.2023" />
     <MESSAGE value="Commit of Homework" />
     <MESSAGE value="Commit of lesson 5_2 week" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit of lesson 5_2 week" />
+    <MESSAGE value="Assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

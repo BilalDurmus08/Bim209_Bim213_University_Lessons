@@ -14,7 +14,7 @@ public class TestEvaluate {
         String postFixExp = Evaluate.infixToPostfix(exp);
         System.out.println(postFixExp);
 
-        int result = Evaluate.evaluatePostfixExpression(postFixExp);
-        System.out.println(result);
+//        int result = Evaluate.evaluatePostfixExpression(postFixExp);
+//        System.out.println(result);
     }
 }
